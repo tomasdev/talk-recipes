@@ -1,0 +1,8 @@
+{
+  "name": "@tomasdev/talk-plugin-must-read",
+  "version": "1.0.0",
+  "description": "Enables setting to force users to read the article before commenting",
+  "main": "index.js",
+  "author": "Tomas Roggero <hola@tomasroggero.com",
+  "license": "Apache-2.0"
+}
